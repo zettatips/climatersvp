@@ -183,23 +183,23 @@ $(document).ready(function () {
         },
         data: {
             // Event title
-            title: "Zul and Adilah's Wedding",
+            title: "Climate Change Gathering",
 
             // Event start date
-            start: new Date('Nov 27, 2021 12:00'),
+            start: new Date('Feb 12, 2023 13:00'),
 
             // Event duration (IN MINUTES)
             // duration: 120,
 
             // You can also choose to set an end time
             // If an end time is set, this will take precedence over duration
-            end: new Date('Nov 27, 2021 16:00'),
+            end: new Date('Feb 12, 2023 15:00'),
 
             // Event Address
             address: 'Dewan Meranti 2, Sg Buloh',
 
             // Event Description
-            description: "We can't wait to see you on our big day."
+            description: "We can't wait to see you!"
         }
     });
 

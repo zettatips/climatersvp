@@ -183,20 +183,20 @@ $(document).ready(function () {
         },
         data: {
             // Event title
-            title: "Climate Change Gathering",
+            title: "Climate Change Online Gathering",
 
             // Event start date
-            start: new Date('Feb 12, 2023 13:00'),
+            start: new Date('March 4, 2023 14:30'),
 
             // Event duration (IN MINUTES)
             // duration: 120,
 
             // You can also choose to set an end time
             // If an end time is set, this will take precedence over duration
-            end: new Date('Feb 12, 2023 15:00'),
+            end: new Date('March 4, 2023 15:30'),
 
             // Event Address
-            address: 'Dewan Meranti 2, Sg Buloh',
+            address: 'Teams Meeting (Invitation will be sent separately)',
 
             // Event Description
             description: "We can't wait to see you!"
